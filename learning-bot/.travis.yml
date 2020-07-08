@@ -1,0 +1,2 @@
+language: java
+./mvnw -DskipTests=true -B -V install
